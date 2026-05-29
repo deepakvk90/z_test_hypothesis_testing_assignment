@@ -127,4 +127,4 @@ Since the calculated Z-score (**0.85**) is less than the critical Z-value (**1.6
 
 ## Author
 
-*Data Science Assignment — Hypothesis Testing Module*
+*Deepak Vishwakarma*
